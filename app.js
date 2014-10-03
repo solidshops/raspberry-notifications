@@ -31,7 +31,7 @@ function fnGetData() {
             headers: {
                 'Authorization': 'Basic '
                     + new Buffer(obj_config.api.key + ':' + obj_config.api.secret).toString('base64'),
-                'User-Agent': 'SolidShops/Tessel'
+                'User-Agent': 'SolidShops/Raspberry'
             }
         };
 
