@@ -1,5 +1,5 @@
 {
-    "log" : true,
+    "log" : false,
     "interval" : 300000,
     "api":{
         "key":"6490791e7abf6b29a381288cc23a8223",
