@@ -1,0 +1,8 @@
+{
+    "log" : true,
+    "interval" : 300000,
+    "api":{
+        "key":"6490791e7abf6b29a381288cc23a8223",
+        "secret":"03fe853a05f5f818cf11ed6b30d0f777"
+    }
+}

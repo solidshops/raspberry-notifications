@@ -1,0 +1,11 @@
+{
+    "name": "raspberry-notifications",
+    "version": "0.0.1",
+    "main": "app.js",
+    "private": true,
+    "description": "Package file for tessel",
+    "dependencies": {
+        "lame" : "*",
+        "speaker" : "*"
+    }
+}
