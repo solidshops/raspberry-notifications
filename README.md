@@ -13,7 +13,7 @@ If you want to connect to your own SolidShops account, just change the API keys 
 * wget http://node-arm.herokuapp.com/node_latest_armhf.deb
 * sudo dpkg -i node_latest_armhf.deb
 * sudo apt-get install libasound2-dev
-* run at startup crontab -u pi -e, /usr/bin/sudo -u pi -H /usr/local/bin/node /YOURCLONEDFOLDER/app.js
+* run at startup: crontab -u pi -e, @reboot /usr/bin/sudo -u pi -H /usr/local/bin/node /YOURCLONEDFOLDER/app.js
 
 ### app
 * clone this repository
